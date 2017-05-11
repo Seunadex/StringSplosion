@@ -1,0 +1,14 @@
+{
+  "name": "string-xplosion",
+  "version": "1.0.0",
+  "description": "StringSplosion class whose constructor accept a string argument.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "Seun Adekunle",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
